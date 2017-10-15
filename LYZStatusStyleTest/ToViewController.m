@@ -27,6 +27,10 @@
     //黑
     [self.navigationController.navigationBar setBackgroundImage:[UIImage imageNamed:@"WX20171014-225840"] forBarMetrics:UIBarMetricsDefault];
 
+    //改变navigationController 的 preferredStatusBarStyle 默认值 变为 UIStatusBarStyleLightContent
+    
+//    self.navigationController.navigationBar.barStyle = UIBarStyleBlack;
+    
     self.navigationController.navigationBarHidden = NO;
 }
 

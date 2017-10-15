@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LYZStatusStyleTest/ToViewController.m"
-            timestampString = "529688639.761536"
+            timestampString = "529731478.335354"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "30"
-            endingLineNumber = "30"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
             landmarkName = "-viewWillAppear:"
             landmarkType = "7">
          </BreakpointContent>
